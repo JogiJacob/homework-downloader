@@ -1,0 +1,9 @@
+
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+@import url("./styles/TableComponent.css");
+@import url("./styles/TopBar.css");
+@import url("./styles/Header.css");

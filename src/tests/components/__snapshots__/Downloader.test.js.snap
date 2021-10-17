@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should test Downloader component 1`] = `
+<Fragment>
+  <TopBar
+    selectedItems={Array []}
+    selectionText="None Selected"
+  />
+  <TableComponent
+    data={Array []}
+    setSelections={[Function]}
+  />
+</Fragment>
+`;

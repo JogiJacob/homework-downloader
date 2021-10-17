@@ -1,0 +1,17 @@
+.topBar{
+    display: flex;
+    padding: 20px;
+  }
+  
+  .topBar button {
+    border: none;
+    background: none;
+  }
+  
+  .selectionArea{
+    min-width: 20%;
+  }
+  
+  .downloadButton{
+    cursor: pointer;
+  }
